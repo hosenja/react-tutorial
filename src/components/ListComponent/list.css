@@ -1,7 +1,16 @@
-.List {
-    display: flex;
-    justify-content: center;
+.list {
     margin-top: 10px;
     width: 100%;
-    background: red;
+  }
+  .btn btn-primary {
+   margin-left:  20px;
+  }
+
+  .m-input{
+    margin-right: 15px;
+  }
+
+  .line-through{
+    text-decoration: line-through;
+    color: gray;
   }
